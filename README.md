@@ -1,5 +1,5 @@
 # My-J18P1
-Adv Practice Project
+Advanced Practice Project
 
 #!/usr/bin/env python
 import unittest
